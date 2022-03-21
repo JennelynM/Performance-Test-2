@@ -1,0 +1,286 @@
+body {
+    background-color: #f5c99f;
+}
+
+.first-box{
+    border: 3px solid #fdb978 ;
+    background: #fdb978;
+    padding: 6rem 5rem;
+    margin-top: 2.5rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    box-shadow: 10px 10px #9c8874;
+    
+  }
+  .first-box h1{
+      font-family: 'Bell MT';
+      font-size: 350%;
+      font-weight: bold;
+      color: #530b03;
+      text-shadow: 2px 2px white;
+      text-align: center; 
+      margin-left: 23rem;
+      margin-top: -2rem;
+ }
+ 
+ .first-box p{
+    font-family: 'Times New Roman';
+    font-size: 200%;
+    text-align: center; 
+    margin-left: 23rem;
+    margin-top: 1rem;
+ }
+ .first-box img{
+    float: left;
+    height: 450px;
+    width: 350px;
+    margin-top: -24rem;
+    margin-left: -2rem;
+    border-radius: 0.7rem;
+    
+ }
+
+ .second-box{
+    border: 3px solid #fdb978 ;
+    background: #fdb978;
+    padding: 10rem 10rem;
+    margin-top: 2.5rem;
+    margin-left: 1rem;
+    margin-right: 40rem;
+    box-shadow: 10px 10px #9c8874;
+ }
+
+ .second-box h1{
+    font-family: 'Bookman Old Style';
+    font-size: 350%;
+    font-weight: bold;
+    color: #530b03;
+    text-shadow: 2px 2px 10px rgb(219, 107, 15);
+    text-align: left; 
+    margin-left: -7rem;
+    margin-top: -12rem;
+ }
+ .pic1{
+    float: left;
+    height: 125px;
+    width: 125px;
+    margin-top: -2rem;
+    margin-left: -6rem;
+    border-radius: 0.7rem;
+ }
+ .pic2 {
+    float: left;
+    height: 125px;
+    width: 125px;
+    margin-top: -2rem;
+    margin-left: 5rem;
+    border-radius: 0.7rem;
+ }
+ .pic3 {
+    float: left;
+    height: 125px;
+    width: 125px;
+    margin-top: -7.5rem;
+    margin-left: 20rem;
+    border-radius: 0.7rem;
+ }
+ .pic4 {
+    float: left;
+    height: 125px;
+    width: 125px;
+    margin-top: 1rem;
+    margin-left: -6rem;
+    border-radius: 0.7rem;
+ }
+ .pic5 {
+    float: left;
+    height: 125px;
+    width: 125px;
+    margin-top: 1rem;
+    margin-left: 4.5rem;
+    border-radius: 0.7rem;
+ }
+ .pic6 {
+    float: left;
+    height: 125px;
+    width: 125px;
+    margin-top: -8rem;
+    margin-left: 20rem;
+    border-radius: 0.7rem;
+ }
+ .third-box{
+    border: 3px solid #fdb978 ;
+    background: #fdb978;
+    padding: 10rem 10rem;
+    margin-top: 2.5rem;
+    margin-left: 1rem;
+    margin-right: 40rem;
+    margin-bottom: 4rem;
+    padding-bottom:4px;
+    box-shadow: 10px 10px #9c8874;
+ }
+
+ .third-box h1{
+    font-family: 'Bookman Old Style';
+    font-size: 325%;
+    font-weight: bold;
+    color: #530b03;
+    text-shadow: 2px 2px 10px rgb(219, 107, 15);
+    text-align: left; 
+    margin-left: -8rem;
+    margin-top: -12rem;
+ }
+
+ .third-box h2 {
+    font-family: 'Bookman Old Style';
+    font-size: 200%;
+    color: black;
+    text-align: left;
+    padding-left: -4px;
+    padding-bottom: 3px;
+
+
+ }
+ .fourth-box{
+    border: 3px solid #fdb978 ;
+    background: #fdb978;
+    padding: 10rem 10rem;
+    margin-top: -1rem;
+    margin-left: 1rem;
+    margin-right: 40rem;
+    margin-bottom: 4rem;
+    padding-bottom:4px;
+    box-shadow: 10px 10px #9c8874;
+ }
+
+ .fourth-box h1{
+    font-family: 'Bookman Old Style';
+    font-size: 325%;
+    font-weight: bold;
+    color: #530b03;
+    text-shadow: 2px 2px 10px rgb(219, 107, 15);
+    text-align: left; 
+    margin-left: -8rem;
+    margin-top: -12rem;
+ }
+ .fourth-box h2 {
+    font-family: 'Bookman Old Style';
+    font-size: 250%;
+    color: black;
+    text-align: left;
+    margin-left: -8rem;
+    margin-top: -1rem;
+    padding-left: 2px;
+    padding-top: -3px;
+ }
+ .fourth-box h3 {
+    font-family: 'Bookman Old Style';
+    font-size: 200%;
+    color: black;
+    text-align: left;
+    margin-left: -5rem;
+    margin-top: -1rem;
+    padding-left: 2px;
+    padding-top: -4px;
+ }
+ .fifth-box{
+    border: 3px solid #fdb978 ;
+    background: #fdb978;
+    padding: 10rem 10rem;
+    margin-top: -88rem;
+    margin-left: 45rem;
+    margin-right: 1rem;
+    padding-bottom: 50px;
+    box-shadow: 10px 10px #9c8874;
+ }
+
+ .fifth-box h1{
+    font-family: 'Bookman Old Style';
+    font-size: 325%;
+    font-weight: bold;
+    color: #530b03;
+    text-shadow: 2px 2px 10px rgb(219, 107, 15);
+    text-align: left; 
+    margin-left: -8rem;
+    margin-top: -12rem;
+ }
+ .fifth-box h2 {
+    font-family: 'Bookman Old Style';
+    font-size: 200%;
+    color: black;
+    text-align: left;
+    margin-left: -8rem;
+    padding-left: 2px;
+    padding-top: 3px;
+ }
+ .fifth-box h3 {
+    font-family: 'Bookman Old Style';
+    font-size: 150%;
+    color: black;
+    text-align: left;
+    margin-left: -5rem;
+    padding-left: 2px;
+    padding-top: -4px;
+
+ }
+.sixth-box{
+    border: 3px solid #fdb978 ;
+    background: #fdb978;
+    padding: 200px 234.5px;
+    margin-top: 3rem;
+    margin-left: 45rem;
+    margin-right: 1rem;
+    padding-bottom: 120px ;
+    box-shadow: 10px 10px #9c8874;
+ }
+
+ .sixth-box h1{
+    font-family: 'Bookman Old Style';
+    font-size: 325%;
+    font-weight: bold;
+    color: #530b03;
+    text-shadow: 2px 2px 10px rgb(219, 107, 15);
+    text-align: left; 
+    margin-left: -13rem;
+    margin-top: -15rem;
+    padding-bottom:55px;
+ }
+.sixth-box h2 {
+    font-family: 'Bookman Old Style';
+    font-size: 200%;
+    color: black;
+    text-align: center;
+    margin-left: -10rem;
+    margin-top: 2rem;
+    margin-right: -10rem;
+    margin-bottom: -9px ;
+}
+ .last-box{
+    border: 3px solid #fdb978 ;
+    background: #fdb978;
+    padding: 6rem 5rem;
+    margin-top: 4rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 2rem;
+    box-shadow: 10px 10px #9c8874;
+    
+  }
+  .last-box h1{
+    font-family: 'Bookman Old Style';
+    font-size: 325%;
+    font-weight: bold;
+    color: #530b03;
+    text-shadow: 2px 2px 10px rgb(219, 107, 15);
+    text-align: left; 
+    margin-left: -2rem;
+    margin-top: -8rem;
+    padding-bottom:40px;
+  }
+ .last-box p{
+    font-family: 'Times New Roman';
+    font-size: 200%;
+    text-align:center; 
+    padding-bottom: 2px;
+ }
+ 
